@@ -1,5 +1,9 @@
 <p align=right><img src="https://travis-ci.org/luciotato/LiteScript.png?branch=master" /></p>
 
+## Benchmarking
+
+Use `benchmark-stable` for JSTransformationBenchmarks.
+
 ### LiteScript is a highly-readable, literate, compile-to-js and compile-to-c language.
 
 ## Design considerations
